@@ -1,0 +1,18 @@
+{
+  "name": "ExtraFi Token List",
+  "description": "Token list for ExtraFi protocol on unichain",
+  "timestamp": "2025-07-15T08:23:28.727131Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://extrafi.io/logo.png",
+  "keywords": [
+    "extrafi",
+    "defi",
+    "tokenlist",
+    "unichain"
+  ],
+  "tokens": []
+}
